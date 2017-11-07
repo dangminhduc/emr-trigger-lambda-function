@@ -1,0 +1,1 @@
+# emr-trigger-lambda-function
